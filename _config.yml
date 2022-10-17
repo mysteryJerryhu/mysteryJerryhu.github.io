@@ -1,29 +1,29 @@
 # Site settings
-title: My Blog
-SEOTitle: 我的博客 | My Blog
+title: Linxhu's Personal Page
+SEOTitle: Linxhu
 header-img: img/post-bg-desk.jpg
-email: 暂无
-description: "写一句你想写的话"
-keyword: "我的博客"
-url: "http://name.github.io"          # your host, for absolute URL
+email: linxhu@live.com
+description: "I believe you but but you have to prove yourself"
+keyword: "Linxhu page"
+url: "https://mysteryjerryhu.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/name/name.github.io.git" # you code repository
+github_repo: "https://github.com/mysteryJerryhu?tab=repositories" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "苟利国家生死以，岂因祸福避趋之~"
+sidebar-about-description: "It's pathetic that it need takes time to get to know someone."
 sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     暂无
-zhihu_username:     暂无
-github_username:    暂无
-facebook_username:  暂无
-jianshu_username:   暂无
-#twitter_username:   暂无
+# weibo_username:     No
+#zhihu_username:     No
+github_username:    mysteryJerryhu
+#facebook_username:  No
+#jianshu_username:   No
+#twitter_username:   No
 
 
 
@@ -96,16 +96,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WP",
+        title: "贡献者-WP",
         href: "https://wangpei.ink"
     },{
-        title: "简书·BY",
+        title: "贡献者-简书·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Google",
+        href: "https://google.com"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "zhihu",
+        href: "https://zhihu.com/"
     }
 ]
